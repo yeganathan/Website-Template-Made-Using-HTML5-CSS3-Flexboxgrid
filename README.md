@@ -1,1 +1,1 @@
-CheckOut this Template here >> https://yeganathan.github.io/AppThem-BootStrap/
+CheckOut this Template here >> https://yeganathan.github.io/AppThem/
